@@ -3,7 +3,8 @@ import {useState, useCallback, useRef, useEffect} from 'react';
 import useSWRInfinite from 'swr/infinite';
 import {FaRegGrinBeamSweat} from 'react-icons/fa';
 import {RotatingLines} from 'react-loader-spinner';
-import useIntersectionObserver from './hooks/useintersectionObserver';
+import useIntersectionObserver from '@jyc-coder/use-intersection-observer';
+
 
 const AccessKey = process.env.REACT_APP_UNSPLASH_ACCESS_KEY;
 const getKey = (pageIndex, previousPageData, query) => {
