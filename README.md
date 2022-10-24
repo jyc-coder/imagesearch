@@ -20,5 +20,5 @@ https://unsplash.com/developers
 
 
 # 구현 이미지
-![](https://velog.velcdn.com/images/jhs000123/post/b3809f7e-dd3c-4705-ac5e-10cc56969de2/image.gif)
 
+![ezgif com-gif-maker (40)](https://user-images.githubusercontent.com/56331400/197446685-2e5d81ff-4692-4368-b60d-4fac7763ce30.gif)
